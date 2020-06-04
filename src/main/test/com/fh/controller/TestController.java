@@ -14,7 +14,7 @@ public class TestController {
 
     @Test
     public void test2(){
-        String a  = "sss";
+        String a  = "ssss";
         System.out.println(a);
     }
 }

@@ -11,4 +11,10 @@ public class TestController {
         String sql = SqlString.getSql(area);
         System.out.println("sql为"+sql);
     }
+
+    @Test
+    public void test2(){
+        String a  = "sss";
+        System.out.println(a);
+    }
 }
